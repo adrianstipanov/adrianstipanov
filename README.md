@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrianstipanov
-- 👀 I’m interested in quant finance, algorithmic trading, ML and startups.
+- 👀 I’m interested in data science, ML, quant finance, algorithmic trading, and startups.
 - 🌱 I’m currently learning data science, data engineering and trying to delve deeper into DRL.
 - 📫 I am reachable on LinkedIn at www.linkedin.com/in/adrianstipanov/
 
