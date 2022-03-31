@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrianstipanov
-- 👀 Interested in financial markets, ML and hybrid intelligence among many other things.
+- 👀 Interested in machine learning and hybrid intelligence among many other things.
 - 📫 I'm reachable on LinkedIn at www.linkedin.com/in/adrianstipanov
 
 <!---
