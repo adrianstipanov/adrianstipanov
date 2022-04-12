@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adrianstipanov
+- 👋 Hi, I’m Adrian
 - 👉🏻 Go to https://adrianstipanov.github.io/ to find out more.
 - 📫 I'm reachable on LinkedIn at www.linkedin.com/in/adrianstipanov
 
