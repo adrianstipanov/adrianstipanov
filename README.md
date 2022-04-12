@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrian
 - 👉🏻 Click [here](https://adrianstipanov.github.io/) to find out more.
-- 📫 I'm reachable on [LinkedIn](www.linkedin.com/in/adrianstipanov)
+- 📫 I'm reachable on [LinkedIn](https://linkedin.com/in/adrianstipanov)
 
 <!---
 adrianstipanov/adrianstipanov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
