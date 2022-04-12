@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrianstipanov
-- 👀 Interested in machine learning and hybrid intelligence among many other things.
+- 👉🏻 Go to https://adrianstipanov.github.io/ to find out more.
 - 📫 I'm reachable on LinkedIn at www.linkedin.com/in/adrianstipanov
 
 <!---
