@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian.
-- 👉🏻 Click [here](https://adrianstipanov.github.io/) to find out more.
+- In my spare time, I am building a roboadvisor called [Robot Marvin](https://robotmarvin.me/)
 - 📫 I'm reachable on [LinkedIn](https://linkedin.com/in/adrianstipanov).
 
 <!---
