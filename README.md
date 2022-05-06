@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian.
-- In my spare time, I am building a roboadvisor called [Robot Marvin](https://robotmarvin.me/)
+- 👨🏻‍💻 In my spare time, I am building a roboadvisor called [Robot Marvin](https://robotmarvin.me/).
 - 📫 I'm reachable on [LinkedIn](https://linkedin.com/in/adrianstipanov).
 
 <!---
